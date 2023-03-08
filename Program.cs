@@ -7,8 +7,9 @@ namespace Program1
         {
             //  Leapyear.PrintLeapyear();
             //  FlipCoin.FlipTheCoin();
-           // Powerof2.Powerofthe2();
-            Factors.Factorsof();
+            // Powerof2.Powerofthe2();
+            // Factors.Factorsof();
+            HarmonicNumber.Harmonicnum();
         }
     }
 }
